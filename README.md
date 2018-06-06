@@ -56,6 +56,7 @@ representa a camada de acesso aos dados.
 O Projeto ThoughtWorks apenas gerencia as rotas e requisições e mostra o retorno.
 
 ![solucao](https://github.com/paulovictorcg/jam-music/blob/master/solucao.PNG?raw=true)
+
 Imagem 2 - A solução vista do Visual Studio 2017
 
 Os Testes foram separados em outra pasta, como é comum em projetos orientado a testes. 
@@ -67,6 +68,7 @@ Para a pirâmide de testes, foi usado apenas uma classe para teste unitário, de
  
  - O código está escalável. Você pode trocar a organização que calcula o desempenho das linguagens, bastando apenas trocar o parâmetro passado por padrão ao método.
  - É possível executar a aplicação no Visual Studio 2015 em diante apenas abrindo o arquivo Sln dentro do Visual Studio
+ - Utilizei uma conta do github desabilitada para autenticação. O GitHub limita o número de requisições para usuários não autenticados
 
 ## Recursos relacionados
 
